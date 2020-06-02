@@ -25,3 +25,5 @@ Usage:
     x_summary = descriptive_statistics.Univariate(data=x)
 
     x_summary.descriptive_summary()
+
+For a practical example see the example in the documentation folder.
